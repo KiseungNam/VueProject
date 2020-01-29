@@ -1,0 +1,10 @@
+<template>
+	<!-- 하단 -->
+	<div class="container-fluid bg-dark text-white" style="margin-top:50px;padding-top:30px;padding-bottom:30px">
+		<div class="container">
+			<p>https://www.pulmuoneshop.co.kr</p>
+			<p>게시판 예제</p>
+			<p>사업자번호 : 123-45-67890</p>
+		</div>
+	</div>
+</template>
